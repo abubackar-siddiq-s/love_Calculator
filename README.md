@@ -22,7 +22,7 @@ A fun and simple web app to calculate the love percentage between two people! Bu
    ```
 
 ## Try it Online
-Check out the deployed app here: [abulovecalc.streamlit.app](https://abulovecalc.streamlit.app)
+Check out the deployed app here: [abulovecalculator.streamlit.app](https://abulovecalculator.streamlit.app)
 
 ---
 
